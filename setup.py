@@ -57,7 +57,7 @@ setup(
             'docutils',
         ],
         testing=[
-            'nose',
+            'pytest',
             'pep8 >=1.3',
             'reportlab',
             'docutils',
